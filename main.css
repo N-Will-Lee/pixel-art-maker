@@ -1,0 +1,34 @@
+.row {
+    display:flex;
+    
+}
+.cell  {
+    width: 30px;
+    height: 30px;
+    outline: 1px solid black;
+    
+}
+.cell:hover {
+    background-color: grey;
+}
+.green  {
+    background-color: green;
+}
+.red  {
+    background-color: red;
+}
+.blue  {
+    background-color: blue;
+}
+.black  {
+    background-color: black;
+}
+.white  {
+    background-color: white;
+}
+.yellow  {
+    background-color: yellow;
+}
+.orange  {
+    background-color: orange;
+}
